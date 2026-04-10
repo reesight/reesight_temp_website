@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project 🗂️
+title: >-
+  Geopolitical Intelligence Newsletter     Hormuz Closure — Essential Gases &
+  Semiconductors
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
