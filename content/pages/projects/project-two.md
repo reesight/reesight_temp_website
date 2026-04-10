@@ -9,10 +9,6 @@ description: >-
   perspective of medias from multiple countries. Helps to keep our biases in
   check and let's us see the same event from multiple perspectives. See posts
   below.
-featuredImage:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
