@@ -18,7 +18,7 @@ sections:
       Reesight means "to see again" and that is my goal to help people and
       companies to have a new perspective on how we solve old problems. AI will
       change the way we will work and it is the best time to start adapting for
-      it. That's where
+      it.
     styles:
       self:
         height: auto
