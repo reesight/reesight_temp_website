@@ -4,7 +4,7 @@ title: The Six-Month Clock Ticking on Chips, AI and Data Centers
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Helium and other essential gases
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
