@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Build Resilient Finance and Economics Models Using AI With ME.
+    title: ''
     subtitle: >-
       Reesight means "to see again" and that is my goal to help people and
       companies to have a new perspective on how we solve old problems. AI will
