@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Will shortage of Helium cause the fallout of Datacenters
+title: 'Helium Tap Is Off: The Six-Month Clock Ticking on Chips, AI and Data Centers'
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
