@@ -17,98 +17,6 @@ media:
   url: /images/bg1.jpg
   altText: Project image
 ---
-
-[All projects](https://claude.ai/projects)
-
-# Geopolitical Timeline Predictions
-
-
-
-
-
-
-How can I help you today?Start a task in Cowork
-
-*   [Multi-source geopolitical event analysis by timelineLast message 19 hours ago](https://claude.ai/chat/d88eda89-a1b6-4273-8d2f-c81e0fc4e221)
-
-### Memory
-
-Only you
-
-Project memory will show here after a few chats.
-
-
-
-### Instructions
-
-
-
-1\. Use a curious mindset. 2. Argue with knowledge of history, past philosphers, pycholoists, knowledgeable leaders, bankers, economist and multi theorist. 3. Use known media biases and eyeball grabbing techniques to challenge your arguments. 4. Reply in multi dimensional tables whereever possible
-
-
-
-### Files
-
-5% of project capacity usedIndexing
-
-### Geopolitical Intelligence Newsletter System.tsx
-
-386 lines
-
-tsx
-
-### geo\_newsletter\_system.html — Master Template.html
-
-407 lines
-
-html
-
-### Geopolitical Intelligence Newsletter System.tsx
-
-481 lines
-
-tsx
-
-### Geopolitical Intelligence Newsletter System.tsx
-
-448 lines
-
-tsx
-
-### Geopolitical Intelligence Newsletter System.tsx
-
-496 lines
-
-tsx
-
-### Geopolitical Intelligence Newsletter System.tsx
-
-588 lines
-
-tsx
-
-### Geo\_news\_lettersystem.txt
-
-406 lines
-
-txt
-
-### Geopolitical Scan template.txt
-
-204 lines
-
-txt
-
-
-
-
-
-## Geopolitical Intelligence Newsletter System.tsx
-
-
-
-24.87 KB •386 lines•Formatting may be inconsistent from source
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -494,3 +402,4 @@ tbody tr:nth-child(odd)  td{background:#fff;}
 </div>
 </body>
 </html>
+
