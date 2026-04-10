@@ -16,10 +16,10 @@ sections:
     title: Reesight
     subtitle: >-
       Reesight means "to see again" and that is my goal to help people and
-      companies to have a new perspective on how to solve old problems using
-      latest AI developments. I use this website to publish and share my
-      insights, some cool projects that I have been working on and share the
-      generated content.
+      companies to have a new perspective on how to solve old problems using new
+      ways integrated with AI. I use this website to share my insights,
+      information about my projects and to share the generated content. Contact
+      me for more information.
     styles:
       self:
         height: auto
