@@ -17,8 +17,9 @@ sections:
     subtitle: >-
       Reesight means "to see again" and that is my goal to help people and
       companies to have a new perspective on how to solve old problems using
-      latest AI developments. I use this website to publish and share some cool
-      projects I have been working on and to share the generated content.
+      latest AI developments. I use this website to publish and share my
+      insights, some cool projects that I have been working on and share the
+      generated content.
     styles:
       self:
         height: auto
