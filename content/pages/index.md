@@ -43,7 +43,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all Content
+        label: See all Projects
         url: /projects
     showDate: false
     showDescription: true
@@ -53,7 +53,6 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -64,7 +63,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Content
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -77,8 +76,6 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
