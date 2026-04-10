@@ -14,9 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m an engineer by studies, got curious about all things finance a
-      few years back and now working on connecting the dots between geopolitics,
-      trade and finance with the help of AI
+      # Hey I’m an electrical engineer by studies, IoT solution consultant by
+      Job title and a curious nerd about all things finance and economics.
+      During COVID crisis after having some personal setbacks I realized that my
+      knowledge about "how money works" is very limited and that set me on a
+      mission to connect the dots between geopolitics, trade and finance. 
+      Thanks to latest developments on AI now I can also develop required
+      software tools with ease to accerlerate my journey. 
 
     media:
       type: ImageBlock
