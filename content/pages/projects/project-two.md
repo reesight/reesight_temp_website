@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Geo Politcal
+title: Geo Politcal Intelligence Report
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
