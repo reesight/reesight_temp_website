@@ -16,10 +16,7 @@ sections:
     title: >-
       Build interesting APPs and Web Projects with ME Using Best AI models and
       Practices.
-    subtitle: >-
-      AI will change the way we will work and it is the best time to start
-      adapting for it. That's where Reesight which also means looking at the
-      same thing from a new perspective can help you.
+    subtitle: "Reesight\_ means looking at the same thing from a new perspective can help you."
     styles:
       self:
         height: auto
