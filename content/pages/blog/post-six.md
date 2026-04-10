@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Helium Tap Is Off: The Six-Month Clock Ticking on Chips, AI and Data Centers'
+title: The Six-Month Clock Ticking on Chips, AI and Data Centers
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
