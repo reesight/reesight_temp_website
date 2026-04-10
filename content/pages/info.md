@@ -121,12 +121,6 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [ajay@reesight.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
