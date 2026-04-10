@@ -2,7 +2,7 @@
 type: PostLayout
 title: AI Boom 2026 — Real vs Hype🌎
 colors: colors-a
-date: '2024-02-01'
+date: '2026-04-10'
 author: content/data/team/doris-soto.json
 excerpt: >-
   **🌐 Geopolitical Intelligence Newsletter** &nbsp;&nbsp;&nbsp; **AI Boom ·
