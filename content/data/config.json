@@ -78,7 +78,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "",
             "email": "ajay@reesight.com",
             "emailAltText": "My email",
             "address": "2624 PE, Delft, Netherlands",
