@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Build interesting APPs and Web Projects with ME Using Best AI models and
-      Practices.
+    title: Build Resilient Finance and Economics Models Using AI With ME.
     subtitle: >-
       Reesight means "to see again" and that is my goal to help people and
       companies to have a new perspective on how we solve old problems. AI will
