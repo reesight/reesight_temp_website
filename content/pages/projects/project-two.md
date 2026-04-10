@@ -25,7 +25,7 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: /posts
         showIcon: true
         icon: arrowRight
         iconPosition: right
