@@ -2,7 +2,7 @@
 type: PostLayout
 title: Liquidity, Inflation & Market Overvaluation
 colors: colors-a
-date: '2024-05-02'
+date: '2026-04-10'
 author: content/data/team/doris-soto.json
 excerpt: "Geopolitical Intelligence Newsletter \_\_\_ Liquidity · Inflation · Market Overvaluation · April 2026"
 featuredImage:
