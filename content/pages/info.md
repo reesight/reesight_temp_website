@@ -138,39 +138,6 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: DividerSection
     styles:
       self:
