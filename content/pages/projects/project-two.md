@@ -26,7 +26,7 @@ bottomSections:
       - content/pages/blog/post-four.md
       - content/pages/blog/post-three.md
     colors: colors-d
-    variant: variant-a
+    variant: variant-d
     elementId: ''
     showDate: true
     showAuthor: false
