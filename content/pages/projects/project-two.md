@@ -7,7 +7,8 @@ client: Awesome client
 description: >-
   Build a framework that creates a report on a geopolitical event from the
   perspective of medias from multiple countries. Helps to keep our biases in
-  check.
+  check and let's us see the same event from multiple perspectives. See posts
+  below.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
