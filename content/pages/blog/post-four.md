@@ -2,11 +2,9 @@
 type: PostLayout
 title: AI Boom 2026 — Real vs Hype🌎
 colors: colors-a
-date: '2024-02-01'
+date: '2026-04-10'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  **🌐 Geopolitical Intelligence Newsletter** &nbsp;&nbsp;&nbsp; **AI Boom ·
-  Real vs Hype · Data Centers · Global Sovereignty · April 2026**
+excerpt: AI Boom · Real vs Hype · Data Centers · Global Sovereignty · April 2026
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
