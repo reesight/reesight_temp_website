@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: Reesight
     subtitle: >-
       Reesight means "to see again" and that is my goal to help people and
       companies to have a new perspective on how we solve old problems. AI will
