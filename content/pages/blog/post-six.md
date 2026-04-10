@@ -81,14 +81,7 @@ bottomSections:
         flexDirection: row
         textAlign: left
 ---
-***
-
-title: "Geopolitical Intelligence Brief: Hormuz Closure & Helium Crisis"
-date: 2026-04-08
-layout: default
----------------
-
-**🌐 Geopolitical Intelligence Newsletter**     **Hormuz Closure — Essential Gases & Semiconductors**
+# **🌐 Geopolitical Intelligence Newsletter**     **Hormuz Closure — Essential Gases & Semiconductors**
 
 ***
 
