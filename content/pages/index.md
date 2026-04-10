@@ -17,9 +17,10 @@ sections:
       Build interesting APPs and Web Projects with ME Using Best AI models and
       Practices.
     subtitle: >-
-      Reesight means looking at the same thing from a new perspective can help
-      you. AI will change the way we will work and it is the best time to start
-      adapting for it. That's where
+      Reesight means "to see again" and that is my goal to help people and
+      companies to have a new perspective on how we solve old problems. AI will
+      change the way we will work and it is the best time to start adapting for
+      it. That's where
     styles:
       self:
         height: auto
