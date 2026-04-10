@@ -14,14 +14,17 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hey I’m an electrical engineer by studies, IoT solution consultant by
+      Job title and a curious nerd about all things finance and economics.
+      During COVID crisis after having some personal setbacks I realized that my
+      knowledge about "how money works" is very limited and that set me on a
+      mission to connect the dots between geopolitics, trade and finance. 
+      Thanks to latest developments on AI now I can also develop required
+      software tools with ease to accerlerate my journey. 
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/unnamed.jpg
       altText: Hero image
     styles:
       self:
@@ -58,10 +61,6 @@ sections:
         url: /images/logo1.svg
         altText: Logo one
         caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
       - type: ImageBlock
         url: /images/logo3.svg
         altText: Logo three
@@ -108,7 +107,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: https://github.com/
         styles:
           self:
             textAlign: left
@@ -116,7 +115,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: https://twitter.com/
         styles:
           self:
             textAlign: left
@@ -124,7 +123,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: https://www.linkedin.com/
         styles:
           self:
             textAlign: left
@@ -132,7 +131,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: https://codepen.io/
         styles:
           self:
             textAlign: left
@@ -140,7 +139,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: https://discord.com/
         styles:
           self:
             textAlign: left
@@ -148,7 +147,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: https://www.instagram.com/
         styles:
           self:
             textAlign: left
@@ -180,7 +179,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: WEB 1, 2, 3
       - type: Label
         label: React
       - type: Label
@@ -294,7 +293,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: Let’s talk... 💬
     colors: colors-f
     form:
       type: FormBlock
@@ -333,7 +332,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Submit 🚀
       styles:
         self:
           textAlign: center
