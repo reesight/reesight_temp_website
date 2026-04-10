@@ -83,10 +83,6 @@ bottomSections:
         flexDirection: row
         textAlign: left
 ---
-# **🌐 Geopolitical Intelligence Newsletter**     **Hormuz Closure — Essential Gases & Semiconductors**
-
-***
-
 ## Qatar's Helium Tap Is Off: The Six-Month Clock Ticking on Chips, AI and Data Centers
 
 *Geopolitical Intelligence Brief · April 8, 2026*
