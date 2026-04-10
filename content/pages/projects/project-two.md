@@ -18,33 +18,39 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 bottomSections:
-  - type: CtaSection
-    title: Check them out
-    text: ''
+  - type: FeaturedPostsSection
+    title: 'Posts:'
     actions:
-      - type: Button
-        label: Try it now
-        altText: ''
-        url: /posts
-        showIcon: true
+      - type: Link
+        label: See all posts
+        altText: See all posts
+        url: /blog
+        showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
         elementId: ''
-    colors: colors-c
-    backgroundSize: full
+    posts:
+      - content/pages/blog/post-five.md
+      - content/pages/blog/post-four.md
+      - content/pages/blog/post-three.md
+    colors: colors-d
+    variant: variant-a
     elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showFeaturedImage: false
+    showReadMoreLink: true
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
-          - pt-28
-          - pb-28
+          - pt-24
+          - pb-24
           - pl-4
           - pr-4
-        flexDirection: col
-        textAlign: center
+        textAlign: left
 ---
 ```
 ```
