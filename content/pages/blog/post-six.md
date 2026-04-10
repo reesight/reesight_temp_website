@@ -1,8 +1,6 @@
 ---
 type: PostLayout
-title: >-
-  Geopolitical Intelligence Newsletter     Hormuz Closure — Essential Gases &
-  Semiconductors
+title: Will shortage of Helium cause the fallout of Datacenters
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
